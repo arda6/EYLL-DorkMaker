@@ -27,13 +27,13 @@ if soru == 'e':
     print("")
     print("+-----cσdєd вч єчll'-----+")
     print("")
-    print("ѕítє:" + site + " " "ínurl:" + inurl + " " "íntítlє:" + intitle + " " "íntєхt:" + intext + "")
+    print("site:" + site + " " "inurl:" + inurl + " " "intitle:" + intitle + " " "intext:" + intext + "")
     print("")
     print("dσrk hαzırlαndı .")
-elif soru == 'n':
+elif soru == 'h':
     print("")
     print("+-----cσdєd вч єчll'-----+")
     print("")
-    print("ѕítє:"+site+" " "ínurl:"+inurl+ " " "íntítlє:"+intitle+ "")
+    print("site:"+site+" " "inurl:"+inurl+ " " "intitle:"+intitle+ "")
     print("")
     print("dσrk hαzırlαndı .")
